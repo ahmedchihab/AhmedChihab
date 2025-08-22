@@ -40,6 +40,25 @@
 
 ---
 
+## 🎓 Certifications
+
+<div align="center">
+
+📜 Google Data Analytics &nbsp; | &nbsp;  
+📊 Python Visualization (Michigan) &nbsp; | &nbsp;  
+🗃️ SQL for Data Analysis (Edureka / IBM) &nbsp; | &nbsp;  
+📊 Statistics (Stanford Online) &nbsp; | &nbsp;  
+🧠 IBM Data Analyst &nbsp; | &nbsp;  
+📊 Power BI Data Analyst &nbsp; | &nbsp;  
+🗣️ Business English (University of Washington)  
+
+*Check my detailed certificates below under my profile!*  
+
+</div>
+
+---
+
+
 ## 💡 Featured Projects
 
 <div align="center">
