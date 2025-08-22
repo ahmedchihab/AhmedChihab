@@ -1,1 +1,1 @@
-![Skills](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','SQL','Excel','Power BI'],datasets:[{data:[40,25,20,15],backgroundColor:['#3776AB','#003B57','#217346','#F2C811']} ]}})
+![Skills](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22SQL%22%2C%22Excel%22%2C%22Power%20BI%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C25%2C20%2C15%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%23003B57%22%2C%22%23217346%22%2C%22%23F2C811%22%5D%7D%5D%7D%7D)
