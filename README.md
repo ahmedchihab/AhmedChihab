@@ -86,3 +86,43 @@ Built and queried a **relational database** with KPIs for business intelligence.
   ⭐ <i>Always learning, building, and sharing knowledge in <b>finance & data analysis</b>.</i>
 </div>
 
+
+## 🎓 Certifications
+
+### 📊 Google Data Analytics Professional Certificate  
+**Google / Coursera** – Data cleaning, analysis, and visualization using SQL, R, and Tableau  
+![Google Certificate] <img width="581" height="452" alt="image" src="https://github.com/user-attachments/assets/a8f3257e-a54c-483c-bfdd-39b89f59af94" />
+ 
+[View Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+### 📈 Understanding and Visualizing Data with Python  
+**University of Michigan / Coursera** – Data visualization and statistical concepts using Python (Matplotlib, Seaborn)  
+![Python Visualization Certificate]<img width="756" height="581" alt="image" src="https://github.com/user-attachments/assets/4811ec61-8158-4dfb-8fe6-d9575abf6ea0" />
+ 
+[View Certificate](https://www.coursera.org/learn/understanding-visualization-data)
+
+### 🗃️ SQL for Data Analysis  
+**Edureka** – MySQL for Data Analytics and Business Intelligence  
+![SQL Certificate]<img width="639" height="484" alt="image" src="https://github.com/user-attachments/assets/a1eb4e17-f6a0-4e46-a4af-9f2a1812f035" />
+  
+[View Certificate](https://www.edx.org/learn/data-science/ibm-sql-for-data-science)
+
+### 📊 Statistics – Stanford Online  
+**Stanford University** – Introduction to statistical thinking for data analysis  
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
+[View Certificate](https://online.stanford.edu/courses/xfds110-introduction-statistics)
+
+### 🧠 IBM Data Analyst Professional Certificate  
+**IBM / Coursera** – Comprehensive data analysis with Python, Excel, and SQL  
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
+[View Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+
+### 📊 Power BI Data Analyst  
+**Microsoft** – Data modeling, visualization, and analysis using Power BI  
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)  
+[View Certificate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)
+
+### 🗣️ Business English Communication Skills  
+**University of Washington / Coursera** – Professional English communication skills  
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)  
+[View Certificate](https://www.coursera.org/specializations/business-english)
