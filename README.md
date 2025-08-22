@@ -44,17 +44,19 @@
 
 <div align="center">
 
-📜 Google Data Analytics &nbsp; | &nbsp;  
-📊 Python Visualization (Michigan) &nbsp; | &nbsp;  
-🗃️ SQL for Data Analysis (Edureka / IBM) &nbsp; | &nbsp;  
-📊 Statistics (Stanford Online) &nbsp; | &nbsp;  
-🧠 IBM Data Analyst &nbsp; | &nbsp;  
-📊 Power BI Data Analyst &nbsp; | &nbsp;  
-🗣️ Business English (University of Washington)  
+<img src="https://img.shields.io/badge/Google-Data%20Analytics-F7DF1E?style=for-the-badge&logo=google&logoColor=white"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/University%20of%20Michigan-Python%20Visualization-1F77B4?style=for-the-badge&logo=python&logoColor=white"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/SQL%20(Edureka/IBM)-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/Stanford-Statistics-red?style=for-the-badge&logo=stanford&logoColor=white"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/IBM-Data%20Analyst-blue?style=for-the-badge&logo=ibm&logoColor=white"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/> &nbsp;|&nbsp; 
+<img src="https://img.shields.io/badge/University%20of%20Washington-Business%20English-0072C6?style=for-the-badge&logo=university&logoColor=white"/>
 
-*Check my detailed certificates below under my profile!*  
+<br>
+*Check my detailed certificates below under my profile!*
 
 </div>
+
 
 ---
 
