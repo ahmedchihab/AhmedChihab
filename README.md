@@ -48,6 +48,11 @@
 **Power BI interactive dashboard** analyzing revenue, profit margins & customer insights.  
 ![Power BI](https://img.shields.io/badge/PowerBI-Interactive-blue)
 
+### 📊 Python Data Visualization Showcase
+**Jupyter Notebook for Python data visualization** demonstrating essential techniques using Matplotlib, Seaborn, and NumPy.  
+![Python](https://img.shields.io/badge/Python-DataVisualization-blue)
+
+
 ### 📈 Stock Market Analysis
 **Excel-based analysis** of Attijariwafa Bank’s performance (2015–2024).  
 ![Excel](https://img.shields.io/badge/Excel-Finance-green)
