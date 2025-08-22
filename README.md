@@ -44,9 +44,15 @@
 
 <div align="center">
 
+### 🚀 Banking Data Analysis
+**EDA on banking data**: cleaning, exploring, and extracting insights on customer behavior and financial health.  
+![Excel](https://img.shields.io/badge/Excel-DataCleaning-green) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue) ![Python](https://img.shields.io/badge/Python-Analysis-yellow)
+
+
 ### 📊 E-commerce Sales Dashboard
 **Power BI interactive dashboard** analyzing revenue, profit margins & customer insights.  
 ![Power BI](https://img.shields.io/badge/PowerBI-Interactive-blue)
+
 
 ### 📊 Python Data Visualization Showcase
 **Jupyter Notebook for Python data visualization** demonstrating essential techniques using Matplotlib, Seaborn, and NumPy.  
