@@ -1,36 +1,77 @@
-# 👋 Hi, I’m Ahmed Chihab  
+<!-- ========================= -->
+<!--  Ahmed Chihab GitHub README -->
+<!-- ========================= -->
 
-🎓 **Finance Engineering Student** | 📊 **Aspiring Data Analyst**  
-I’m passionate about transforming **financial data into actionable insights** using Excel, SQL, and Python.  
-My goal is to bridge the gap between **finance and data science** to support smarter decision-making.  
-
----
-
-## 🔧 Skills & Tools  
-- **Languages:** Python, SQL  
-- **Data Tools:** Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn  
-- **Finance Knowledge:** Financial modeling, Economics, Business Analytics  
-
----
-
-## 📂 Featured Projects  
-- 📊 **E-commerce Sales Dashboard** → Interactive Power BI dashboard analyzing revenue, profit margins, and customer insights.  
-- 📈 **Stock Market Analysis** → Excel-based analysis of Attijariwafa Bank’s performance (2015–2024).  
-- 🗄️ **SQL Database Project** → Built and queried a relational database with KPIs for business intelligence.  
-
----
-
-## 📫 Connect with me  
-- 🌐 [Portfolio](https://www.datascienceportfol.io/ahmedchihab)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-chihab-96a849337/)  
-- ✉️ ahmed.chihab@uit.ac.ma  
+<div align="center">
+  <h1>👋 Hi, I’m Ahmed Chihab</h1>
+  <p>
+    🎓 <b>Finance Engineering Student</b> | 📊 <b>Aspiring Data Analyst</b><br>
+    Transforming <b>financial data</b> into actionable insights with <b>Excel, SQL & Python</b>.<br>
+    Bridging <b>Finance</b> & <b>Data Science</b> for smarter decision-making.
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/ahmed-chihab-96a849337/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.datascienceportfol.io/ahmedchihab">
+      <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:ahmed.chihab@uit.ac.ma">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedChihab&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedChihab&layout=compact)  
+## 🔥 Skills & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-D03F3F?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C6473?style=for-the-badge&logo=seaborn&logoColor=white"/>
+</div>
 
 ---
 
-⭐ *Always learning, building, and sharing knowledge in finance and data analysis.*  
+## 💡 Featured Projects
+
+<div align="center">
+
+### 📊 E-commerce Sales Dashboard
+**Power BI interactive dashboard** analyzing revenue, profit margins & customer insights.  
+![Power BI](https://img.shields.io/badge/PowerBI-Interactive-blue)
+
+### 📈 Stock Market Analysis
+**Excel-based analysis** of Attijariwafa Bank’s performance (2015–2024).  
+![Excel](https://img.shields.io/badge/Excel-Finance-green)
+
+### 🗄️ SQL Database Project
+Built and queried a **relational database** with KPIs for business intelligence.  
+![SQL](https://img.shields.io/badge/SQL-Database-yellow)
+
+</div>
+
+> 🔗 More projects on my [Portfolio](https://www.datascienceportfol.io/ahmedchihab)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedChihab&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedChihab&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  ⭐ <i>Always learning, building, and sharing knowledge in <b>finance & data analysis</b>.</i>
+</div>
+
