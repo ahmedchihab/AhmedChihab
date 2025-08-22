@@ -1,14 +1,2 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ahmed%20Chihab&fontSize=50&animation=fadeIn)
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedChihab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedChihab&layout=compact&theme=radical)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedChihab&theme=react-dark)
+### 📊 Data Analyst Skills Breakdown
+![Skills](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','SQL','Excel','Power BI'],datasets:[{data:[40,25,20,15],backgroundColor:['#3776AB','#003B57','#217346','#F2C811']} ]}})
